@@ -1,16 +1,15 @@
-## Hi there 👋
+![](https://count.getloli.com/@zhizhicat?name=zhizhicat&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
-<!--
-**zhizhicat/zhizhicat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi**! 我是 **栀栀**，平平无奇但很爱猫的小开发~
 
-Here are some ideas to get you started:
+** ✨ 喜欢：**
+ - 前端 
+ - 折腾 AI
+ - 撸猫（云撸也算）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>喵~ 🐾</sub>
+
+<!-- svg -->
+<div>
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+</div>
