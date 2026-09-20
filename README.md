@@ -37,6 +37,6 @@
 ![](https://img.shields.io/badge/QQ-3569202630-54B4EF?style=flat-square&amp;logo=Tencent)
 ![](https://img.shields.io/badge/Email-zhizhicat@foxmail.com-EA4335?logo=Gmail)
 
-#### GitHub 状态 · My Status
+#### GitHub 状态 · Github Status
 
 <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=zhizhicat&show_icons=true&hide_border=true&bg_color=0,FFF0F5,FFE4E8&title_color=E8447C&icon_color=E8447C&text_color=555&include_all_commits=true&count_private=true" alt="stats"/>
